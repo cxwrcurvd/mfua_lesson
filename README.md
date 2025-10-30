@@ -391,6 +391,10 @@ micro main.cpp
 
 [Tree](https://github.com/chocolatey/choco/releases?ysclid=mh035mg6en297039295)
 
+```powershell
+choco install tree
+```
+
 #### Работа с git-ветками
 
 Показать локальные ветки
